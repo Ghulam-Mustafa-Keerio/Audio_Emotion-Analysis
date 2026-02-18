@@ -214,7 +214,7 @@ What actually happens
 
 **Environment:**
 - Python version:
-- TensorFlow/PyTorch version:
+- TensorFlow version:
 - OS:
 - Other relevant info:
 
