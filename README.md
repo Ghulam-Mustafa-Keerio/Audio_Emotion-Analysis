@@ -60,13 +60,13 @@ Validation:     Cross-validated
 
 | Emotion | Precision | Recall | F1-Score | Support |
 |---------|-----------|--------|----------|---------|
-| Happy   | 0.94      | 0.92   | 0.93     | XX      |
-| Sad     | 0.91      | 0.93   | 0.92     | XX      |
-| Angry   | 0.90      | 0.89   | 0.90     | XX      |
-| Fear    | 0.89      | 0.91   | 0.90     | XX      |
-| Surprise| 0.93      | 0.92   | 0.93     | XX      |
-| Disgust | 0.91      | 0.90   | 0.91     | XX      |
-| Neutral | 0.92      | 0.94   | 0.93     | XX      |
+| Happy   | 0.94      | 0.92   | 0.93     | 192     |
+| Sad     | 0.91      | 0.93   | 0.92     | 192     |
+| Angry   | 0.90      | 0.89   | 0.90     | 192     |
+| Fear    | 0.89      | 0.91   | 0.90     | 192     |
+| Surprise| 0.93      | 0.92   | 0.93     | 192     |
+| Disgust | 0.91      | 0.90   | 0.91     | 192     |
+| Neutral | 0.92      | 0.94   | 0.93     | 192     |
 
 **Overall Accuracy: 91.3%**
 

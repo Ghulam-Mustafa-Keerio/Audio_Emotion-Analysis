@@ -1,6 +1,5 @@
 # Deep Learning
 tensorflow>=2.13.0
-# or pytorch>=2.0.0
 
 # Audio Processing
 librosa>=0.10.0
