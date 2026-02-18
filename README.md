@@ -130,8 +130,7 @@ Predicted Emotion
 ```
 Python 3.8+
 ├── Deep Learning
-│   ├── TensorFlow 2.x / Keras
-│   └── PyTorch (alternative)
+│   └── TensorFlow 2.x / Keras
 ├── Audio Processing
 │   ├── librosa
 │   ├── soundfile
@@ -173,8 +172,6 @@ pip install -r requirements.txt
 
 # For GPU support (optional)
 pip install tensorflow-gpu
-# or
-pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
 
 # Launch Jupyter
 jupyter notebook
